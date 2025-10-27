@@ -1,4 +1,16 @@
-Kristaps Lediņš
+Kristaps Lediņš Fullstack Developer
+================
+A person passionate about technology, solutions, and ideas that work
+
+I’m an IT professional who has spent years working at the intersection of technology and business. I enjoy collaborating with people, solving complex problems, and finding ways for technology to make things simpler, faster, and more meaningful.
+
+I’ve been part of the Printify team and other projects, where I gained valuable experience in product development and building digital tools. My work often revolves around turning ideas into practical solutions — and doing it alongside great, motivated people.
+
+I’m interested not only in the technical side of things but also in how to build strong teams, smart strategies, and meaningful companies.
+
+Simply put — I like building things that work and create value.
+
+Programmētājs Kristaps Lediņš
 ================
 Cilvēks, kurš aizraujas ar tehnoloģijām, risinājumiem un idejām, kas strādā
 
